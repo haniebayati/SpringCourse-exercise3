@@ -1,0 +1,9 @@
+﻿Tag Library ها در JSP عبارتند از : 
+
+1. JSTL (JSP Standard Tag Library): کتابخانه‌ای استاندارد که شامل تگ‌هایی برای کار با داده‌ها، شرط‌ها و چرخه‌ها است.
+2. Custom Tag Libraries: توسعه‌دهندگان می‌توانند کتابخانه‌های تگ سفارشی خود را برای منطق خاصی که نیاز دارند، ایجاد کنند.
+3. Spring Tag Library: برای ادغام آسان Spring Framework با JSP.
+4. JSF (JavaServer Faces) Tag Library: برای ایجاد رابط‌های کاربری وب با استفاده از JSF.
+5. Struts Tag Library: برای استفاده با فریم‌ورک Struts در توسعه وب.
+6. Apache Tiles: برای ایجاد الگوهای پیچیده در JSP.
+
